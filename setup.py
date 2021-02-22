@@ -27,7 +27,7 @@ plugin_author = "Ryley Hindman"
 plugin_author_email = "cessnageek@gmail.com"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/cessnageek/OctoPrint-Camera_light"
+plugin_url = "https://github.com/cessnageek/OctoPrint-Camera_light/archive/master.zip"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "AGPLv3"

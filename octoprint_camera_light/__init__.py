@@ -3,6 +3,7 @@ from __future__ import absolute_import, unicode_literals
 
 import octoprint.plugin
 import RPi.GPIO as GPIO
+GPIO.setmode(GPIO.BCM)
 GPIO.setup(18, GPIO.OUT)
 #import testCustom
 
